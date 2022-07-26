@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 • building [codelex.io][website]  
 • learning [php][next], [typescript][typescript]  
 • loving [react][react], [firebase][firebase], [styled-components][styled], [jamstack][jamstack]  
@@ -31,3 +31,4 @@ Here are some ideas to get you started:
 [website]: https://bradgarropy.com
 [linkedin]: https://linkedin.com/in/AlvisBalodis
 [npm]: https://npmjs.com/~bradgarropy
+-->
