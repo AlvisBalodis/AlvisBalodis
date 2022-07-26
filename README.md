@@ -15,14 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👨🏼‍💻 building [bradgarropy.com][website]  
-🧠 learning [nextjs][next], [typescript][typescript]  
-💜 loving [react][react], [firebase][firebase], [styled-components][styled], [jamstack][jamstack]  
+• building [codelex.io][website]  
+• learning [php][next], [typescript][typescript]  
+• loving [react][react], [firebase][firebase], [styled-components][styled], [jamstack][jamstack]  
 
-🏡 [website][website] **|** 
-📰 [newsletter][newsletter] **|** 
-📦 [npm][npm] **|** 
-👔 [linkedin][linkedin]
+• [website][website] **|** 
+• [linkedin][linkedin]
 
 
 [codelex]: https://codelex.io
