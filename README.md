@@ -2,11 +2,11 @@
 
 - I’m currently working on [Codelex]
 - I’m currently learning PHP, Laravel, MySQL, Unit & Integration testing (including TDD & DDD methods), MVC, SOLID & design patterns (KISS, DRY etc.), GIT, Building REST API and Javascript, HTML & CSS, AngularJS basics
-- How to reach me: [Linkedin]
+- How to reach me: [LinkedIn]
 
 
-[Codelex]: https://codelex.io
-[Linkedin]: https://www.linkedin.com/AlvisBalodis
+[codelex]: https://codelex.io
+[linkedin]: https://www.linkedin.com/AlvisBalodis
 
 <!--
 ### Hi there 👋
