@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👨🏼‍💻 building [bradgarropy.com][website]  
+🧠 learning [nextjs][next], [typescript][typescript]  
+💜 loving [react][react], [firebase][firebase], [styled-components][styled], [jamstack][jamstack]  
+
+🏡 [website][website] **|** 
+📰 [newsletter][newsletter] **|** 
+📦 [npm][npm] **|** 
+👔 [linkedin][linkedin]
+
+
+[codelex]: https://codelex.io
+[react]: http://reactjs.org
+[firebase]: https://firebase.google.com
+[styled]: https://styled-components.com
+[typescript]: https://www.typescriptlang.org
+[website]: https://bradgarropy.com
+[linkedin]: https://linkedin.com/in/AlvisBalodis
+[npm]: https://npmjs.com/~bradgarropy
