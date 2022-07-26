@@ -1,9 +1,12 @@
 ### Hej!
 
-• I’m currently working on Codelex
-• I’m currently learning PHP, Laravel, Javascript, HTML, CSS, AngularJS
-• How to reach me: https://www.linkedin.com/AlvisBalodis
+-  I’m currently working on [Codelex]
+-  I’m currently learning PHP, Laravel, Javascript, HTML, CSS, AngularJS
+-  How to reach me: [Linkedin]
 
+
+[Codelex]: https://codelex.io
+[Linkedin]: https://www.linkedin.com/AlvisBalodis
 
 <!--
 ### Hi there 👋
