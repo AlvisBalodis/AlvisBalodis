@@ -1,5 +1,8 @@
 ### Hej!
 
+• I’m currently working on Codelex
+• I’m currently learning PHP, Laravel, Javascript, HTML, CSS, AngularJS
+• How to reach me: https://www.linkedin.com/AlvisBalodis
 
 
 <!--
