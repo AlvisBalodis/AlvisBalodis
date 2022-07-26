@@ -1,7 +1,7 @@
 ### Hi!
 
 - I’m currently working on [Codelex]
-- I’m currently learning PHP, Laravel, Javascript, HTML, CSS, AngularJS
+- I’m currently learning PHP, Laravel, MySQL, Unit & Integration testing (including TDD & DDD methods), MVC, SOLID & design patterns (KISS, DRY etc.), GIT, Building REST API, Javascript, HTML, CSS, AngularJS
 - How to reach me: [Linkedin]
 
 
