@@ -6,7 +6,7 @@
 
 
 [codelex]: https://codelex.io
-[linkedin]: https://www.linkedin.com/AlvisBalodis
+[linkedin]: https://www.linkedin.com/in/alvisbalodis/
 [php]:https://www.php.net
 
 <!--
