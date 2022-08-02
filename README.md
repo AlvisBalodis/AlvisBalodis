@@ -1,7 +1,7 @@
 # Hi!
 
 - I’m currently working on [Codelex]
-- And learning PHP, Laravel, MySQL, Unit & Integration testing (including TDD & DDD methods), MVC, SOLID & design patterns (KISS, DRY etc.) GIT, Building REST API and Javascript, HTML & CSS, AngularJS basics
+- And learning PHP, Laravel, MySQL, Unit & Integration testing (including TDD & DDD methods), MVC, SOLID & design patterns (KISS, DRY etc.) GIT, Building REST API and Javascript, HTML & CSS, Angular basics
 - How to reach me: [LinkedIn]
 
 
