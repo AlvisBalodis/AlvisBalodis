@@ -1,5 +1,5 @@
 ### Hi!
-I’m currently working on [Codelex]
+My name is Alvis. I’m currently working on [Codelex]
 ### Skills 
 - PHP                                   
 - Laravel
