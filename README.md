@@ -1,8 +1,20 @@
-# Hi!
-
-- I’m currently working on [Codelex]
-- And learning PHP • Laravel • MySQL • Unit & Integration testing (including TDD & DDD methods) • MVC • SOLID & design patterns (KISS, DRY etc.) • GIT • Building REST API • JavaScript • HTML & CSS • React • Angular • TypeScript
-- How to reach me: [LinkedIn]
+### Hi!
+I’m currently working on [Codelex]
+### Skills 
+- PHP                                   
+- Laravel
+- MySQL
+- Unit & Integration testing (including TDD & DDD methods)
+- MVC 
+- SOLID & design patterns (KISS, DRY etc.)
+- GIT
+- Building REST API
+- JavaScript
+- HTML & CSS 
+- React
+- Angular
+- TypeScript
+### How to reach me: [LinkedIn]
 
 
 [codelex]: https://codelex.io
