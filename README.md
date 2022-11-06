@@ -4,11 +4,11 @@ My name is Alvis. I’m currently working on [Codelex]
 - PHP                                   
 - Laravel
 - MySQL
+- Building REST API
 - Unit & Integration testing (including TDD & DDD methods)
 - MVC 
 - SOLID & design patterns (KISS, DRY etc.)
 - GIT
-- Building REST API
 - JavaScript
 - HTML & CSS 
 - React
