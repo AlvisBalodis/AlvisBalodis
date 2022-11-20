@@ -4,17 +4,15 @@ My name is Alvis. I’m currently working on [Codelex]
 - PHP                                   
 - Laravel
 - Building REST API
+- Microservices
 - MySQL
-- Unit & Integration testing (including TDD & DDD methods)
-- MVC 
-- SOLID & design patterns (KISS, DRY etc.)
-- GIT
-- JavaScript
 - Node.js
 - Express
+- JavaScript
 - HTML & CSS 
 - React
 - TypeScript
+- GIT
 ### How to reach me: [LinkedIn]
 
 
