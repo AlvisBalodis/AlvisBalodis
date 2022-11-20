@@ -10,6 +10,7 @@ My name is Alvis. I’m currently working on [Codelex]
 - Express
 - JavaScript
 - HTML & CSS 
+- Vue.js
 - React
 - TypeScript
 - GIT
