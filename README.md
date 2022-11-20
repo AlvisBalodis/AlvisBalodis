@@ -1,7 +1,13 @@
 ### Hi!
 My name is Alvis. I’m currently working on [Codelex]
-### Skills 
-- PHP                                   
+#
+### Skills
+- **`PHP`** • **`Laravel`** • **`Building REST API`** • **`Microservices`** • **`MySQL`**
+- **`Node.js`** • **`Fastify`**
+- **`JavaScript`** • **`HTML & CSS`** • **`Vue.js`** • **`React`** • **`TypeScript`**
+- **`GIT`**
+#
+<!--  
 - Laravel
 - Building REST API
 - Microservices
@@ -13,6 +19,7 @@ My name is Alvis. I’m currently working on [Codelex]
 - React
 - TypeScript
 - GIT
+-->
 ### How to reach me: [LinkedIn]
 
 
