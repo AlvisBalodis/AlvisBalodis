@@ -7,7 +7,6 @@ My name is Alvis. I’m currently working on [Codelex]
 - Microservices
 - MySQL
 - Node.js
-- Express
 - JavaScript
 - HTML & CSS 
 - Vue.js
