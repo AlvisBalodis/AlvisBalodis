@@ -3,16 +3,17 @@ My name is Alvis. I’m currently working on [Codelex]
 ### Skills 
 - PHP                                   
 - Laravel
-- MySQL
 - Building REST API
+- MySQL
 - Unit & Integration testing (including TDD & DDD methods)
 - MVC 
 - SOLID & design patterns (KISS, DRY etc.)
 - GIT
 - JavaScript
+- Node.js
+- Express
 - HTML & CSS 
 - React
-- Angular
 - TypeScript
 ### How to reach me: [LinkedIn]
 
