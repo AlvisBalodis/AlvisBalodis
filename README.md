@@ -2,15 +2,14 @@
 My name is Alvis. I’m currently working on [Codelex]
 #
 ### Skills
-- **`PHP`** • **`Laravel`** • **`Building REST API`** • **`Microservices`** • **`MySQL`**
-- **`Node.js`** • **`Fastify`**
-- **`JavaScript`** • **`HTML & CSS`** • **`Vue.js`** • **`React`** • **`TypeScript`**
+- **`PHP`** • **`Laravel`** • **`Building RESTful APIs`** • **`GraphQL`** • **`MySQL`** • **`WordPress`**
+- **`Node.js`** • **`Express`** • **`MongoDB`**
+- **`JavaScript`** • **`HTML & CSS`** • **`Vue.js`** • **`React`**
 - **`GIT`**
 #
 <!--  
 - Laravel
 - Building REST API
-- Microservices
 - MySQL
 - Node.js
 - JavaScript
