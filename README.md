@@ -2,9 +2,10 @@
 My name is Alvis. I’m currently working on [Codelex]
 #
 ### Skills
-- **`Ruby on Rails`** • **`Building RESTful APIs`** • **`GraphQL`** • **`PostgreSQL`** • **`Bootstrap`** 
-- **`PHP`** • **`Laravel`** • **`MySQL`**
+- **`PHP`** • **`Laravel`** • **`MySQL`** • **`Building RESTful APIs`** 
 - **`Node.js`** • **`Express`** • **`MongoDB`**
+- **`GraphQL`** • **`PostgreSQL`** 
+- **`Bootstrap`** • **`Tailwind CSS`** • **`Material UI`**
 - **`JavaScript`** • **`HTML & CSS`** • **`Vue.js`** • **`React`**
 - **`GIT`**
 #
