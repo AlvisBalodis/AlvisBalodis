@@ -1,8 +1,10 @@
 ### Hi!
-My name is Alvis. I’m currently working on [Codelex]
+My name is Alvis. I’m Web Developer.
 #
 ### Skills
-- **`PHP`** • **`Laravel`** • **`MySQL`** • **`Building RESTful APIs`** 
+- **`Ruby on Rails`**
+- **`Building RESTful APIs`**
+- **`PHP`** • **`Laravel`** • **`MySQL`** 
 - **`Node.js`** • **`Express`** • **`MongoDB`**
 - **`GraphQL`** • **`PostgreSQL`** 
 - **`Bootstrap`** • **`Tailwind CSS`** • **`Material UI`**
