@@ -1,5 +1,5 @@
 ### Hi!
-My name is Alvis. I’m Web Developer.
+My name is Alvis. I’m a Web Developer.
 #
 ### Skills
 - **`Ruby on Rails`**
