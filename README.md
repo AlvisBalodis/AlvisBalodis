@@ -1,14 +1,15 @@
 ### Hi!
-My name is Alvis. I’m a Web Developer.
+My name is Alvis. I’m a Full Stack Web Developer.
 #
 ### Skills
-- **`Ruby on Rails`**
+- **`JavaScript`** • **`HTML & CSS`** • **`React`** • **`Vue.js`**
+- **`Node.js`** • **`Express`** • **`Fastify`** • **`MongoDB`**
 - **`Building RESTful APIs`**
-- **`PHP`** • **`Laravel`** • **`MySQL`** 
-- **`Node.js`** • **`Express`** • **`MongoDB`**
-- **`GraphQL`** • **`PostgreSQL`** 
-- **`Bootstrap`** • **`Tailwind CSS`** • **`Material UI`**
-- **`JavaScript`** • **`HTML & CSS`** • **`Vue.js`** • **`React`**
+- **`Bootstrap`** • **`Tailwind CSS`**
+- **`GraphQL`** • **`PostgreSQL`**
+- **`Ruby on Rails`**
+- **`Python`** • **`Django`**
+- **`PHP`** • **`Laravel`** • **`MySQL`**  
 - **`GIT`**
 #
 <!--  
