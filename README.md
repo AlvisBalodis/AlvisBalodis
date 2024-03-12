@@ -2,7 +2,7 @@
 My name is Alvis. I’m a Backend Web Developer.
 #
 ### Skills
-- **`C#`** • **`Asp.Net Core`**
+- **`C#`** • **`ASP.NET Core`**
 - **`Building RESTful APIs`**
 - **`PostgreSQL`** • **`MongoDB`** • **`MySQL`**
 - **`Ruby on Rails`**
