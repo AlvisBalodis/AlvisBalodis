@@ -2,16 +2,15 @@
 My name is Alvis. I’m a Backend Web Developer.
 #
 ### Skills
-- **`C#`** • **`ASP.NET Core`**
-- **`Building RESTful APIs`**
+- **`JavaScript`** • **`NEXT.js`** • **`React`** • **`Tailwind CSS`** • **`HTML & CSS`**
+- **`Node.js`** • **`Building RESTful APIs`** • **`Express`** • **`Fastify`**
 - **`PostgreSQL`** • **`MongoDB`** • **`MySQL`**
 - **`Ruby on Rails`**
 - **`Golang`**
 - **`Python`** • **`Django`**
+- **`C#`** • **`ASP.NET Core`**
 - **`PHP`** • **`Laravel`** 
-- **`JavaScript`** • **`HTML & CSS`** • **`React`** • **`Vue.js`**
-- **`Node.js`** • **`Express`** • **`Fastify`**
-- **`Bootstrap`** • **`Tailwind CSS`**
+- **`Bootstrap`**
 - **`GraphQL`**
  
 - **`GIT`**
