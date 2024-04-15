@@ -1,5 +1,5 @@
 ### Hi!
-My name is Alvis. I’m a Backend Web Developer.
+My name is Alvis. I’m a Full Stack Developer.
 #
 ### Skills
 - **`JavaScript`** • **`NEXT.js`** • **`React`** • **`Tailwind CSS`** • **`HTML & CSS`**
