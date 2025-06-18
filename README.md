@@ -2,17 +2,15 @@
 My name is Alvis. I’m a Full Stack Developer.
 #
 ### Skills
-- **`JavaScript`** • **`NEXT.js`** • **`React`** • **`Tailwind CSS`** • **`HTML & CSS`**
-- **`Node.js`** • **`Building RESTful APIs`** • **`Express`** • **`Fastify`**
-- **`PostgreSQL`** • **`MongoDB`** • **`MySQL`**
-- **`Ruby on Rails`**
-- **`Golang`**
-- **`Python`** • **`Django`**
+- **`Java`** • **`Spring Boot`**
 - **`C#`** • **`ASP.NET Core`**
+- **`REST`** • **`GraphQL`**
+- **`Golang`**
+- **`Ruby on Rails`**
+- **`JavaScript`** • **`NEXT.js`** • **`React`** • **`Bootstrap`** • **`Tailwind CSS`** • **`HTML & CSS`**
+- **`Node.js`** • **`Express`**
+- **`PostgreSQL`** • **`MongoDB`** • **`MySQL`**
 - **`PHP`** • **`Laravel`** 
-- **`Bootstrap`**
-- **`GraphQL`**
- 
 - **`GIT`**
 #
 <!--  
