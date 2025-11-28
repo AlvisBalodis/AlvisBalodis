@@ -2,9 +2,9 @@
 My name is Alvis. I’m a WEB Developer.
 #
 ### Skills
+- **`C#`** • **`ASP.NET Core`**
 - **`PHP`** • **`Laravel`**
 - **`Java`** • **`Spring Boot`**
-- **`C#`** • **`ASP.NET Core`**
 - **`REST`** • **`GraphQL`**
 - **`JavaScript`** • **`NEXT.js`** • **`React`** • **`Bootstrap`** • **`Tailwind CSS`** • **`HTML & CSS`**
 - **`Node.js`** • **`Express`**
